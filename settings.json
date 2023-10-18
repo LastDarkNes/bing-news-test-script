@@ -1,0 +1,12 @@
+{
+  "query_params": {
+    "mkt": "en-US",
+    "Category": "Entertainment",
+    "originalImg": true,
+    "safeSearch": "Strict"
+  },
+  "api_key": "",
+  "url": "https://api.bing.microsoft.com",
+  "endpoint": "/v7.0/news/"
+
+}
